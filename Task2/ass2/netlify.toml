@@ -1,0 +1,9 @@
+[build]
+  publish = "public"
+  command = "go mod tidy && go build -o . && task2.exe"
+
+
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200
