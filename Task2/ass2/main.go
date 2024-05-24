@@ -23,8 +23,9 @@ func main() {
 	defer logFile.Close()
 
 	log.SetOutput(logFile)
-
+	
 	r := mux.NewRouter()
+	r.Handle("/", http.FileServer(http.Dir("public")))
 	r.Use(methodOverrideMiddleware)
 	r.HandleFunc("/", limitHandler(mainPageHandler)).Methods("GET")
 	r.HandleFunc("/json", limitHandler(handleJSONRequest)).Methods("POST")
