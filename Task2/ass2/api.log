@@ -35,3 +35,7 @@
 {"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T14:06:52+05:00"}
 {"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T14:06:53+05:00"}
 {"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T14:06:54+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T15:07:14+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T15:08:56+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T15:09:38+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T15:10:14+05:00"}
