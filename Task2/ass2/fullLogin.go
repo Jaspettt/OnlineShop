@@ -25,7 +25,7 @@ type Claims struct {
 
 func loginHandler(w http.ResponseWriter, r *http.Request) {
 	if r.Method == "GET" {
-		http.ServeFile(w, r, "pages/login.html")
+		http.ServeFile(w, r, "public/login.html")
 		return
 	} else if r.Method == "POST" {
 		username := r.FormValue("username")
@@ -140,7 +140,7 @@ func authMiddleware(next http.HandlerFunc) http.HandlerFunc {
 
 func userProfileHandler(w http.ResponseWriter, r *http.Request) {
 	if r.Method == "GET" {
-		http.ServeFile(w, r, "pages/profile.html")
+		http.ServeFile(w, r, "public/profile.html")
 		return
 	}
 	http.Error(w, "Method Not Allowed", http.StatusMethodNotAllowed)
@@ -181,7 +181,7 @@ func adminProfileHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	data := AdminPageData{Roles: roles}
-	tmpl, err := template.ParseFiles("pages/admin.html")
+	tmpl, err := template.ParseFiles("public/admin.html")
 	if err != nil {
 		log.Println("Failed to parse template: ", err)
 		http.Error(w, "Internal server error", http.StatusInternalServerError)

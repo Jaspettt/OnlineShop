@@ -31,7 +31,7 @@ const (
 
 func registerHandler(w http.ResponseWriter, r *http.Request) {
 	if r.Method == "GET" {
-		http.ServeFile(w, r, "pages/register.html")
+		http.ServeFile(w, r, "public/register.html")
 		return
 	} else if r.Method == "POST" {
 		var user User

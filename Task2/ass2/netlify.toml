@@ -2,7 +2,6 @@
   publish = "public"
   command = "cd task2/ass2 && go mod tidy && go build -o . && task2.exe"
 
-
 [[redirects]]
   from = "/*"
   to = "/index.html"
