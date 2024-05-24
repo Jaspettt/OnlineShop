@@ -68,7 +68,7 @@ func mainPageHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	tmpl, err := template.ParseFiles("public/index.html")
+	tmpl, err := template.ParseFiles("index.html")
 	if err != nil {
 		http.Error(w, "Failed to load template", http.StatusInternalServerError)
 		return

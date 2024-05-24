@@ -1,0 +1,138 @@
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T06:11:56+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T06:12:35+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T06:13:49+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T06:13:59+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T06:14:43+05:00"}
+{"level":"info","msg":"Error sending confirmation email: 535 5.7.0 NEOBHODIM parol prilozheniya https://help.mail.ru/mail/security/protection/external / Application password is REQUIRED","time":"2024-05-24T06:14:59+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T06:34:14+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T06:34:18+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T06:34:23+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T06:34:26+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T06:34:33+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T07:31:20+05:00"}
+{"level":"info","msg":"Failed to retrieve user information: sql: no rows in result set\n","time":"2024-05-24T07:32:36+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 3\n","time":"2024-05-24T07:34:50+05:00"}
+{"level":"info","msg":"Failed to retrieve user role: Error 1146 (42S02): Table 'vinylsgolang.roles' doesn't exist\n","time":"2024-05-24T07:34:50+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T07:38:27+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 3\n","time":"2024-05-24T07:38:34+05:00"}
+{"level":"info","msg":"Failed to retrieve user role: sql: no rows in result set\n","time":"2024-05-24T07:38:34+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 3\n","time":"2024-05-24T07:38:43+05:00"}
+{"level":"info","msg":"Failed to retrieve user role: sql: no rows in result set\n","time":"2024-05-24T07:38:43+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T07:42:43+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 3\n","time":"2024-05-24T07:42:51+05:00"}
+{"level":"info","msg":"Failed to retrieve user role: sql: no rows in result set\n","time":"2024-05-24T07:42:51+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T07:50:10+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T07:51:19+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T07:51:26+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T07:52:22+05:00"}
+{"level":"info","msg":"Failed to retrieve user role: sql: no rows in result set\n","time":"2024-05-24T07:52:22+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T08:04:38+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T08:04:45+05:00"}
+{"level":"info","msg":"User role: Melik\n","time":"2024-05-24T08:04:45+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T08:04:55+05:00"}
+{"level":"info","msg":"User role: Melik\n","time":"2024-05-24T08:04:55+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T08:07:30+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T08:08:00+05:00"}
+{"level":"info","msg":"User role: Melik\n","time":"2024-05-24T08:08:00+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T08:09:38+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:09:54+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:10:01+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:10:01+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T08:11:10+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:11:13+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:11:14+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:11:15+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T08:11:22+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T08:11:30+05:00"}
+{"level":"info","msg":"User role: Chelik\n","time":"2024-05-24T08:11:30+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:11:34+05:00"}
+{"level":"info","msg":"Failed to scan role:  sql: Scan error on column index 0, name \"id\": converting NULL to int is unsupported","time":"2024-05-24T08:11:35+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T08:13:50+05:00"}
+{"level":"info","msg":"Failed to send email to  kossinovviktor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T08:14:46+05:00"}
+{"level":"info","msg":"Failed to send email to  Kosinowictor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T08:14:46+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T08:17:35+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T08:18:07+05:00"}
+{"level":"info","msg":"User role: NeKrurt\n","time":"2024-05-24T08:18:07+05:00"}
+{"level":"info","msg":"Invalid password","time":"2024-05-24T08:18:28+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T08:18:33+05:00"}
+{"level":"info","msg":"User role: NeKrurt\n","time":"2024-05-24T08:18:33+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T08:33:38+05:00"}
+{"level":"info","msg":"Invalid password","time":"2024-05-24T08:35:46+05:00"}
+{"level":"info","msg":"Invalid password","time":"2024-05-24T08:36:02+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T08:36:12+05:00"}
+{"level":"info","msg":"User role: NeKrurt\n","time":"2024-05-24T08:36:12+05:00"}
+{"level":"info","msg":"Failed to send email to  kossinovviktor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T08:36:21+05:00"}
+{"level":"info","msg":"Failed to send email to  Kosinowictor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T08:36:21+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T09:44:08+05:00"}
+{"level":"info","msg":"Invalid password","time":"2024-05-24T09:44:40+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T09:44:48+05:00"}
+{"level":"info","msg":"User role: NeKrurt\n","time":"2024-05-24T09:44:48+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T09:50:18+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T09:53:21+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T09:58:39+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:00:03+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:05:09+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:05:52+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:05:56+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:05:58+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:05:59+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:01+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:13+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:21+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:25+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:28+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:32+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:35+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:39+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:06:42+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:07:34+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:07:38+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:07:43+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:08:01+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:08:06+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:08:08+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:08:12+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:08:45+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:08:45+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:08:50+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:10:27+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:10:31+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:12:49+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:10+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:19+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:25+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:28+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:30+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:34+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:36+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:42+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:13:47+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:15:37+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T10:15:56+05:00"}
+{"level":"info","msg":"User role: NeKrurt\n","time":"2024-05-24T10:15:56+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:16:50+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:17:05+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:18:17+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:21:02+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T10:21:26+05:00"}
+{"level":"info","msg":"User role: NeKrurt\n","time":"2024-05-24T10:21:26+05:00"}
+{"level":"info","msg":"Failed to send email to  kossinovviktor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T10:21:42+05:00"}
+{"level":"info","msg":"Failed to send email to  Kosinowictor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T10:21:42+05:00"}
+{"level":"info","msg":"Failed to send email to  kossinovviktor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T10:21:48+05:00"}
+{"level":"info","msg":"Failed to send email to  Kosinowictor@gmail.com :  dial tcp: lookup smtp.gmail.com': no such host","time":"2024-05-24T10:21:48+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:21:53+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T10:21:56+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:24:52+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:27:14+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:31:27+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T10:31:30+05:00"}
+{"level":"info","msg":"Invalid password","time":"2024-05-24T10:31:47+05:00"}
+{"level":"info","msg":"Retrieving role for user ID: 4\n","time":"2024-05-24T10:31:57+05:00"}
+{"level":"info","msg":"User role: NeKrurt\n","time":"2024-05-24T10:31:57+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T12:31:27+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T12:33:08+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T12:33:51+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T12:34:03+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T12:40:46+05:00"}
+{"level":"info","msg":"Server listening on port 8080","time":"2024-05-24T13:27:52+05:00"}
+{"action":"mainPageHandler","level":"info","method":"GET","msg":"Handling main page request","path":"/","time":"2024-05-24T13:28:02+05:00"}
